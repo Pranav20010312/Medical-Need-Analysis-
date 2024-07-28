@@ -55,7 +55,7 @@ The importance of features in the Random Forest model is visualized to identify 
 ### Results
 Random Forest Accuracy: 0.875
 SVM Accuracy: 0.875
-Gradient Boosting Accuracy: 0.875
+Gradient Boosting Accuracy: 0.875.
 All models achieved an accuracy of 87.5% on the test data. Feature importance analysis revealed the most significant features contributing to the predictions.
 
 ## Conclusion
